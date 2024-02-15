@@ -56,14 +56,6 @@
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "age",
-      "lastUpdateTs" : 1707989615739,
-      "longValue" : null,
-      "strValue" : "n"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
       "key" : "name",
       "lastUpdateTs" : 1707989497993,
       "longValue" : null,
