@@ -26,5 +26,8 @@
     "title" : "XP",
     "zip" : null
   },
-  "relations" : [ ]
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
 }
