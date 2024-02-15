@@ -15,6 +15,7 @@
     "image" : null,
     "name" : "manufacturing_plant"
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }
