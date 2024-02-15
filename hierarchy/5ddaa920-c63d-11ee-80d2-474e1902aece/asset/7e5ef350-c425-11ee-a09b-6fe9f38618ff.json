@@ -49,40 +49,5 @@
     },
     "type" : "Contains",
     "typeGroup" : "COMMON"
-  } ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "address",
-      "lastUpdateTs" : 1707220321901,
-      "longValue" : null,
-      "strValue" : "Chandni Chowk, Old Delhi, Delhi, 110006, India"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "imageUrl",
-      "lastUpdateTs" : 1707225917858,
-      "longValue" : null,
-      "strValue" : "https://imgs.search.brave.com/PKExfWNlKRAIMweQBnVGTr9111dlpOYzF5IDrasDBsA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NDE5NzIyODk2MTUt/ZGU1MDJiYTc1OTM5/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRCOGZH/WnNiMjl5SlRJd2NH/eGhibnhsYm53d2ZI/d3dmSHg4TUE9PQ"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : 28.656736617914245,
-      "jsonValue" : null,
-      "key" : "latitude",
-      "lastUpdateTs" : 1707376016857,
-      "longValue" : null,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : 77.30742312289951,
-      "jsonValue" : null,
-      "key" : "longitude",
-      "lastUpdateTs" : 1707376016857,
-      "longValue" : null,
-      "strValue" : null
-    } ]
-  }
+  } ]
 }
