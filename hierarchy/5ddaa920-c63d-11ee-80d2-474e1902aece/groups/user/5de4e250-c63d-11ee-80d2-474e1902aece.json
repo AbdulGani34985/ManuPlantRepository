@@ -1,9 +1,7 @@
 {
   "entityType" : "ENTITY_GROUP",
   "entity" : {
-    "additionalInfo" : {
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "configuration" : {
       "columns" : [ {
         "type" : "ENTITY_FIELD",
@@ -27,12 +25,12 @@
     },
     "edgeGroupAll" : false,
     "externalId" : null,
-    "groupAll" : false,
+    "groupAll" : true,
     "id" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "8c227690-c71a-11ee-a09b-6fe9f38618ff"
+      "id" : "5de4e250-c63d-11ee-80d2-474e1902aece"
     },
-    "name" : "Cust",
+    "name" : "All",
     "ownerId" : {
       "entityType" : "CUSTOMER",
       "id" : "5ddaa920-c63d-11ee-80d2-474e1902aece"
@@ -44,27 +42,5 @@
     "SERVER_SCOPE" : [ ]
   },
   "groupEntities" : true,
-  "permissions" : [ {
-    "entityGroupId" : null,
-    "entityGroupType" : null,
-    "roleId" : {
-      "entityType" : "ROLE",
-      "id" : "c19775f0-c71a-11ee-a0e0-15431c20b1f9"
-    },
-    "tenantId" : {
-      "entityType" : "TENANT",
-      "id" : "e15f6950-c423-11ee-a09b-6fe9f38618ff"
-    },
-    "userGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "8c227690-c71a-11ee-a09b-6fe9f38618ff"
-    },
-    "createdTime" : 1707462850669,
-    "id" : {
-      "entityType" : "GROUP_PERMISSION",
-      "id" : "d25161d0-c71a-11ee-a09b-6fe9f38618ff"
-    },
-    "name" : "GENERIC_[8c227690-c71a-11ee-a09b-6fe9f38618ff]_[c19775f0-c71a-11ee-a0e0-15431c20b1f9]",
-    "public" : false
-  } ]
+  "permissions" : [ ]
 }

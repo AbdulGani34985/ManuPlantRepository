@@ -1,0 +1,37 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "17ffa530-c738-11ee-9761-21e4bffd617b"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "195b8bb0-c738-11ee-a1af-a7e67e72b29c"
+    },
+    "label" : null,
+    "name" : "tempAsset",
+    "ownerId" : null,
+    "type" : "tempasset_profile"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "temperature",
+      "lastUpdateTs" : 1707478141911,
+      "longValue" : 38,
+      "strValue" : null
+    } ]
+  }
+}
